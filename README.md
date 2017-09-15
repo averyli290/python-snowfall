@@ -5,4 +5,4 @@ This is a program in python that uses turtles to make the illusion of snow falli
 
 This was created using the IDLE editor and also VI on the terminal in Linux. If you are using VI to look at this program, I reccomend looking at VI options to turn on numbered lines.
 
-If you are using IDLE, you can press fn and F5 at the same time to run it. When using Vi, a simple thing to do is to first go into terminal and then the directory that the program is in. Then type python3 missionSnowflake.py to run it and to stop it, close the Python Turtle Graphics window and press enter in the terminal.
+If you are using IDLE, on a Mac you can press fn and F5 at the same time to run it. On a computer or pc with Windows, you can just press F5 to run it. When using Vi, a simple thing to do is to first go into terminal and then the directory that the program is in. Then type python3 missionSnowflake.py to run it and to stop it, close the Python Turtle Graphics window and press enter in the terminal.
